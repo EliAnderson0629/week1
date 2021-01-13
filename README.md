@@ -13,4 +13,16 @@ First Repo
 
 `git status` check status of repository
 
-`git push`
+## Basic Bash command
+
+`pwd` print current working directory
+
+`cd` change directory
+
+`ls` list content
+
+`ls -a` list all files
+
+`mkdir` create directory
+
+`touch` create a dummy file placeholder
